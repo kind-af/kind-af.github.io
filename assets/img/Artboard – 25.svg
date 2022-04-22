@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="554" height="106" viewBox="0 0 554 106">
+  <defs>
+    <clipPath id="clip-Artboard_25">
+      <rect width="554" height="106"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_25" data-name="Artboard – 25" clip-path="url(#clip-Artboard_25)">
+    <g id="Group_177" data-name="Group 177" transform="translate(3.18 2.987)">
+      <path id="Path_2279" data-name="Path 2279" d="M92.093.544H61.433L19.814,41.57V.544h-19V101.612h19V67.923L39.982,48.607l31.593,53H98.622L55.254,34.982Z" transform="translate(-0.812 -0.544)"/>
+      <path id="Path_2280" data-name="Path 2280" d="M162.053.544H79.165V101.612h84.521V78.553h-65.4V60.286h55.959V39.174H98.284V21.357h63.769Z" transform="translate(28.594 -0.544)"/>
+      <path id="Path_2281" data-name="Path 2281" d="M230.224.544H147.336V101.612h84.52V78.553h-65.4V60.286h55.958V39.174H166.455V21.357h63.768Z" transform="translate(54.179 -0.544)"/>
+      <path id="Path_2282" data-name="Path 2282" d="M276.129,62.982c20.052,0,29.961-11.829,29.961-31.144S296.413.544,276.944.544H215.507V101.612h19V62.982Zm.7-40.577c5.595,0,9.209,2.995,9.209,8.684,0,6.289-3.614,9.433-9.209,9.433H234.509V22.4Z" transform="translate(79.763 -0.544)"/>
+      <path id="Path_2283" data-name="Path 2283" d="M329.352.544H310.233V101.612h19.119Z" transform="translate(115.313 -0.544)"/>
+      <path id="Path_2284" data-name="Path 2284" d="M414.619.544H331.731V23.153h31.943v78.459h19V23.153h31.943Z" transform="translate(123.381 -0.544)"/>
+    </g>
+  </g>
+</svg>
