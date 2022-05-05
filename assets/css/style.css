@@ -954,6 +954,18 @@ section {
   z-index: 7;
 }
 
+#parallax .box120 {
+  margin: 0% 0px 16% 0px;
+  padding-left:6%;
+  padding-right:3%;
+  height: auto;
+  margin-right: 41.6666666667%;
+  margin-left: 33.3333333333%;
+  position: fixed;
+    top:90%;
+  z-index: 7;
+}
+
 #parallax .box4 {
   margin: 40% 0px 32% 0px;
   height:auto;
@@ -1061,7 +1073,7 @@ section {
   margin-left:69%;
   margin-right: 14.3333333333%;
   position: sticky;
-    top:13%;
+    top:5%;
 }
 
 #parallax4 .box109 {
@@ -1088,7 +1100,7 @@ margin-left:7.3333333333%;
   margin-left:48%;
   margin-right: 35.3333333333%;
   position: sticky;
-    top:13%;
+    top:5%;
 }
 
 #parallax4 .box110 {
@@ -1917,10 +1929,10 @@ margin-left:7.3333333333%;
 }
 
 #parallax .box89 {
-  margin:30% 0px 0% 0px;
+  margin:33% 0px 0% 0px;
   height: auto;
  margin-left: 75.3333333333%;
-  margin-right:  8%;
+  margin-right: 8%;
   position: fixed;
     top: 46.5%;
   z-index: 4;
